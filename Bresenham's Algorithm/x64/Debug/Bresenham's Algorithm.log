@@ -1,0 +1,6 @@
+﻿  Bresenham Algorithm.cpp
+C:\Users\ASUS\source\repos\hello\Bresenham's Algorithm\Bresenham's Algorithm\Bresenham Algorithm.cpp(28,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\hello\Bresenham's Algorithm\Bresenham's Algorithm\Bresenham Algorithm.cpp(28,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\hello\Bresenham's Algorithm\Bresenham's Algorithm\Bresenham Algorithm.cpp(28,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\hello\Bresenham's Algorithm\Bresenham's Algorithm\Bresenham Algorithm.cpp(51,28): warning C4101: 'temp': unreferenced local variable
+  Bresenham's Algorithm.vcxproj -> C:\Users\ASUS\source\repos\hello\Bresenham's Algorithm\x64\Debug\Bresenham's Algorithm.exe
